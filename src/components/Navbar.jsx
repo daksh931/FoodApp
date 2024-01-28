@@ -47,8 +47,8 @@ export default function Navbar() {
                     <Link to="/" className="py-4 pl-8 cursor-pointer font-semibold hover:bg-gray-600 hover:text-white hover:rounded-xl border-b-2 border-white"> Dashboard</Link>
                     <Link className="py-4 pl-8 cursor-pointer font-semibold hover:bg-gray-600 hover:text-white hover:rounded-xl border-b-2 border-white"> Our Speciality</Link>
                     <Link className="py-4 pl-8 cursor-pointer font-semibold hover:bg-gray-600 hover:text-white hover:rounded-xl border-b-2 border-white"> Enterprise</Link>
-                    <Link to="/aboutus" className="py-4 pl-8 cursor-pointer font-semibold hover:bg-gray-600 hover:text-white hover:rounded-xl border-b-2 border-white"> About Us</Link>
-                    <Link to="/contactus" className="py-4 pl-8 cursor-pointer font-semibold hover:bg-gray-600 hover:text-white hover:rounded-xl border-b-2 border-white"> Contact Us</Link>
+                    <Link className="py-4 pl-8 cursor-pointer font-semibold hover:bg-gray-600 hover:text-white hover:rounded-xl border-b-2 border-white"> About Us</Link>
+                    <Link className="py-4 pl-8 cursor-pointer font-semibold hover:bg-gray-600 hover:text-white hover:rounded-xl border-b-2 border-white"> Contact Us</Link>
                 </div>
                 </div>
 
@@ -60,8 +60,8 @@ export default function Navbar() {
                     <Link to="/" className="pr-5 pt-2 py-1 pl-3 cursor-pointer font-semibold hover:bg-slate-200 hover:text-blue-900 hover:rounded-xl"> Dashboard</Link>
                     <Link className="pr-5 pt-2 py-1 pl-2 cursor-pointer font-semibold hover:bg-slate-200 hover:text-blue-900 hover:rounded-xl"> Our Speciality</Link>
                     <Link className="pr-5 pt-2 py-1 pl-2 cursor-pointer font-semibold hover:bg-slate-200 hover:text-blue-900 hover:rounded-xl"> Enterprise</Link>
-                    <Link to="/aboutus" className="pr-5 pt-2 py-1 pl-2 cursor-pointer font-semibold hover:bg-slate-200 hover:text-blue-900 hover:rounded-xl"> About Us</Link>
-                    <Link to="/contactus" className="pr-5 pt-2 py-1 pl-2 cursor-pointer font-semibold hover:bg-slate-200 hover:text-blue-900 hover:rounded-xl"> Contact Us</Link>
+                    <Link className="pr-5 pt-2 py-1 pl-2 cursor-pointer font-semibold hover:bg-slate-200 hover:text-blue-900 hover:rounded-xl"> About Us</Link>
+                    <Link className="pr-5 pt-2 py-1 pl-2 cursor-pointer font-semibold hover:bg-slate-200 hover:text-blue-900 hover:rounded-xl"> Contact Us</Link>
                 </div>
             </div>
         </>
