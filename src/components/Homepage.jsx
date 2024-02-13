@@ -52,10 +52,11 @@ export default function HomePage(){
             </div>
 
             {/* middle Section */}
-            <div className="middleSection  w-full  "
+            <div className="middleSection  w-full  h-[200vh]"
                 style={{ backgroundImage: "url('/mainBackground.jpg')",
                          backgroundRepeat: "repeat-y",
                          backgroundPosition: "center",
+                         backgroundSize: "cover",
                          backgroundSize: "100vw",
                        
                         }}>
